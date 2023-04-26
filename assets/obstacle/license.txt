@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-Poly Spider
+* source:	https://sketchfab.com/3d-models/low-poly-spider-7d3ab592920e4e98b71df547a8666091
+* author:	Mesh-Base (https://sketchfab.com/mesh-base)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-Poly Spider" (https://sketchfab.com/3d-models/low-poly-spider-7d3ab592920e4e98b71df547a8666091) by Mesh-Base (https://sketchfab.com/mesh-base) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
